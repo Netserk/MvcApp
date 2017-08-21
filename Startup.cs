@@ -44,7 +44,7 @@ namespace MyFirstMVCApp
             }
             else
             {
-                app.UseExceptionHandler("/Home/Error");
+                app.UseExceptionHandler("/Home/Errors");
             }
 
             app.UseStaticFiles();
