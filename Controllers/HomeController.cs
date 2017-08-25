@@ -27,6 +27,12 @@ namespace MyFirstMVCApp.Controllers
             return View();
         }
 
+        public IActionResult TypeScript()
+        {
+            ViewData["Message"] = "My Type Script Example page";
+
+            return View();
+        }
         public IActionResult Error()
         {
             return View();

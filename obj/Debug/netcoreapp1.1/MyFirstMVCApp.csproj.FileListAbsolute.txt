@@ -6,3 +6,11 @@
 /Users/krestensimonsenboel/WebApplications/MyFirstMVCApp/obj/Debug/netcoreapp1.1/MyFirstMVCApp.AssemblyInfo.cs
 /Users/krestensimonsenboel/WebApplications/MyFirstMVCApp/obj/Debug/netcoreapp1.1/MyFirstMVCApp.dll
 /Users/krestensimonsenboel/WebApplications/MyFirstMVCApp/obj/Debug/netcoreapp1.1/MyFirstMVCApp.pdb
+/Users/krestensimonsenboel/MvcWebApp/MyFirstMVCApp/bin/Debug/netcoreapp1.1/MyFirstMVCApp.deps.json
+/Users/krestensimonsenboel/MvcWebApp/MyFirstMVCApp/bin/Debug/netcoreapp1.1/MyFirstMVCApp.runtimeconfig.json
+/Users/krestensimonsenboel/MvcWebApp/MyFirstMVCApp/bin/Debug/netcoreapp1.1/MyFirstMVCApp.runtimeconfig.dev.json
+/Users/krestensimonsenboel/MvcWebApp/MyFirstMVCApp/bin/Debug/netcoreapp1.1/MyFirstMVCApp.dll
+/Users/krestensimonsenboel/MvcWebApp/MyFirstMVCApp/bin/Debug/netcoreapp1.1/MyFirstMVCApp.pdb
+/Users/krestensimonsenboel/MvcWebApp/MyFirstMVCApp/obj/Debug/netcoreapp1.1/MyFirstMVCApp.AssemblyInfo.cs
+/Users/krestensimonsenboel/MvcWebApp/MyFirstMVCApp/obj/Debug/netcoreapp1.1/MyFirstMVCApp.dll
+/Users/krestensimonsenboel/MvcWebApp/MyFirstMVCApp/obj/Debug/netcoreapp1.1/MyFirstMVCApp.pdb
